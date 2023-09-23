@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Tensorflow, Machine Learning, Deep Learning, Scikit Learn, LLM, LangChain, HuggingFace, Computer Vision, NLP
 
 ## Education
-- Full Stack Data Science at iNeuron Pvt Ltd (1 Year with Internship)
+- Full Stack Data Science at iNeuron Pvt Ltd | (1 Year with Internship)
 - West Bengal University of Technology | Bachelor of Technology
 
 ## Work Experience
@@ -65,7 +65,7 @@ Create a machine-learning model with your clean data without writing code and va
 
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=See+you%2C+soon.+">
+    <img src="https://readme-typing-svg.herokuapp.com?color=#000000&lines=See+you%2C+soon.+">
 </p>
 
 
