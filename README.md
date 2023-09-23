@@ -65,7 +65,7 @@ Create a machine-learning model with your clean data without writing code and va
 
 
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=#000000&lines=See+you+soon.+">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=See+you+soon">
 </p>
 
 
