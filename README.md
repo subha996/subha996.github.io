@@ -1,15 +1,11 @@
 # Machine Learning Engineer
 
 #### Technical Skills: Python, Tensorflow, Machine Learning, Deep Learning, Scikit Learn, LLM, LangChain, HuggingFace, Computer Vision, NLP
-<i>Dash badge</i>
-<img src="https://img.shields.io/badge/Machine_-Learning-2ea44f?logo=probot" alt="Machine  - Learning">
-<i>Query parameter badge</i>
-<img src="https://img.shields.io/static/v1?label=Machine+&message=Learning&color=2ea44f&logo=probot" alt="Machine  - Learning">
 
-<i>Dash badge</i>
-<img src="https://img.shields.io/badge/Deep_-Learning-2ea44f?style=for-the-badge&logo=robotframework" alt="Deep  - Learning">
-<i>Query parameter badge</i>
-<img src="https://img.shields.io/static/v1?label=Deep+&message=Learning&color=2ea44f&style=for-the-badge&logo=robotframework" alt="Deep  - Learning">
+<p>
+<img src="https://img.shields.io/badge/Machine_-Learning-2ea44f?logo=probot" alt="Machine  - Learning">
+<img src="https://img.shields.io/badge/Deep_-Learning-2ea44f?logo=robotframework" alt="Deep  - Learning">
+</p>
 
 ## Education
 - Full Stack Data Science at iNeuron Pvt Ltd | (1 Year with Internship)
