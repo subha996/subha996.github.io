@@ -3,13 +3,16 @@
 #### Technical Skills: 
 <p>
 <img src="https://img.shields.io/badge/Machine_-Learning-2ea44f?logo=probot" alt="Machine  - Learning">
-<img src="https://img.shields.io/badge/Deep_-Learning-2ea44f?logo=robotframework" alt="Deep  - Learning">
-<img src="https://img.shields.io/badge/Python-2ea44f?logo=Python" alt="Python">
+<img src="https://img.shields.io/static/v1?label=Deep&message=Learning&color=%23EE2C61&logo=robotframework" alt="Deep - Learning">
+<img src="https://img.shields.io/static/v1?label=&message=Python&color=%23B6C9B3&logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/Tensorflow-blue?logo=tensorflow" alt="Tensorflow">
 <img src="https://img.shields.io/static/v1?label=Scikit+&message=Learn&color=%23DC5D10&logo=scikitlearn" alt="Scikit  - Learn">
 <img src="https://img.shields.io/static/v1?label=Natural+&message=Language+Processing&color=%231038DC" alt="Natural  - Language Processing">
 <img src="https://img.shields.io/static/v1?label=&message=Github&color=%23424346&logo=github" alt="Github">
 <img src="https://img.shields.io/static/v1?label=Computer&message=Vision&color=%23F3E80A" alt="Computer - Vision">
+<img src="https://img.shields.io/static/v1?label=&message=Linux&color=%23F3DBA9&logo=linux&logoColor=%23000000" alt="Linux">
+<img src="https://img.shields.io/static/v1?label=&message=Chatbot&color=%2394FDF3&logo=chatbot&logoColor=%23000000" alt="Chatbot">
+
 
 </p>
 
