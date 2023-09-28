@@ -21,12 +21,14 @@
 - West Bengal University of Technology | Bachelor of Technology
 
 ## Work Experience
+<img src="https://github.com/subha996/subha996.github.io/blob/main/logos/finacus_logo.jpeg" width="20" height="20" />
 **Machine Learning Engineer at Sparaxa Solution Pvt Ltd (_October 2022 to Present_)** | New Delhi, India.
 - Led and developed a cutting-edge drug-matching app that significantly lowers patient drug expenses by recommending cost-effective yet equally effective pharmaceutical alternatives.
 - Developed algorithm to make drug matching Faster, drag down runtime from **33 Hours to 2.5 Hours**.
 - Perform Image processing and model training for Object detection and instance segmentation.
 - Interact with team and client on a daily basis for the update and gather requirements
 
+<img src="https://github.com/subha996/subha996.github.io/blob/main/logos/spraxa_logo.png" width="20" height="20" />
 **Machine Learning Engineer at Finacus Solution Pvt Ltd (_December 2021 to October 2022_)** | Mumbai, India.
 - Understanding and applying the requirements of digital products and services.
 - Developing Deep Learning (for **Computer Vision**) models for identity card detection and text read from images (**OCR**).
