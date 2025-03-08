@@ -22,7 +22,7 @@
 
 ## Work Experience
 
-**Airtifical Engineer at CoreLogic (January 2025 to Present_)** | Kolkata, India.
+**Airtifical Engineer at CoreLogic (January 2025 to Present)** | Kolkata, India.
 - Design AI products from scratch and come up with improvement ideas.
 - Build Real-time solutions with the help of Gen AI and advanced machine learning techniques.
 - Collaborate with cross-functional teams to implement AI-driven features and solutions that enhance user experience and operational efficiency.
@@ -33,7 +33,7 @@
 - Ensure models are continuously monitored and fine-tuned for optimal performance and accuracy in real-world applications.
 - Work closely with stakeholders to understand business requirements and align AI solutions with company goals.
 
-**Machine Learning Engineer at Sparaxa Solution Pvt Ltd (_October 2022 to Present_)** | New Delhi, India.
+**Machine Learning Engineer at Sparaxa Solution Pvt Ltd (_October 2022 to Present December 2024)** | New Delhi, India.
 - Led and developed a cutting-edge drug-matching app that significantly lowers patient drug expenses by recommending cost-effective yet equally effective pharmaceutical alternatives.
 - Developed algorithm to make drug matching Faster, drag down runtime from **33 Hours to 2.5 Hours**.
 - Perform Image processing and model training for Object detection and instance segmentation.
