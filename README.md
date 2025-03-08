@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="[https://your-username.github.io/your-repo/assets/your-background-image.png](https://github.com/subha996/subha996.github.io/blob/main/bg1.jpg)" alt="Background Image" width="100%" />
-</p>
+<head>
+  <style>
+    body {
+      background-color: #f0f0f0; /* Your preferred color */
+    }
+  </style>
+</head>
+
 # Machine Learning Engineer
 
 #### Technical Skills: 
