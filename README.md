@@ -1,7 +1,7 @@
 # Machine Learning Engineer
 
 #### Technical Skills: 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Machine_-Learning-2ea44f?logo=probot" alt="Machine  - Learning">
 <img src="https://img.shields.io/static/v1?label=Deep&message=Learning&color=%23EE2C61&logo=robotframework" alt="Deep - Learning">
 <img src="https://img.shields.io/static/v1?label=&message=Python&color=%23B6C9B3&logo=Python" alt="Python">
