@@ -33,13 +33,13 @@
 - Ensure models are continuously monitored and fine-tuned for optimal performance and accuracy in real-world applications.
 - Work closely with stakeholders to understand business requirements and align AI solutions with company goals.
 
-**Machine Learning Engineer at Sparaxa Solution Pvt Ltd (_October 2022 to Present December 2024)** | New Delhi, India.
+**Machine Learning Engineer at Sparaxa Solution Pvt Ltd (October 2022 to December 2024)** | New Delhi, India.
 - Led and developed a cutting-edge drug-matching app that significantly lowers patient drug expenses by recommending cost-effective yet equally effective pharmaceutical alternatives.
-- Developed algorithm to make drug matching Faster, drag down runtime from **33 Hours to 2.5 Hours**.
+- Developed algorithm to make drug matching faster, drag down runtime from **33 Hours to 2.5 Hours**.
 - Perform Image processing and model training for Object detection and instance segmentation.
-- Interact with team and client on a daily basis for the update and gather requirements
+- Interact with the team and client on a daily basis for the update and gather requirements
 
-**Machine Learning Engineer at Finacus Solution Pvt Ltd (_December 2021 to October 2022_)** | Mumbai, India.
+**Machine Learning Engineer at Finacus Solution Pvt Ltd (December 2021 to October 2022)** | Mumbai, India.
 - Understand and apply the requirements of digital products and services.
 - Developing Deep Learning (for **Computer Vision**) models for identity card detection and text read from images (**OCR**).
 - Developed **chatbot** to assist bank customers.
