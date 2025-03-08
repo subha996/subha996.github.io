@@ -22,6 +22,17 @@
 
 ## Work Experience
 
+**Airtifical Engineer at CoreLogic (January 2025 to Present_)** | Kolkata, India.
+- Design AI products from scratch and come up with improvement ideas.
+- Build Real-time solutions with the help of Gen AI and advanced machine learning techniques.
+- Collaborate with cross-functional teams to implement AI-driven features and solutions that enhance user experience and operational efficiency.
+- Develop and optimize AI models for predicting real estate market trends, improving property valuation accuracy, and providing insights to clients.
+- Conduct research to stay up-to-date with the latest AI and machine learning technologies and integrate these into the existing infrastructure.
+- Implement scalable and robust data pipelines to handle large datasets and support real-time processing.
+- Provide technical leadership and mentorship to junior engineers in AI and machine learning best practices.
+- Ensure models are continuously monitored and fine-tuned for optimal performance and accuracy in real-world applications.
+- Work closely with stakeholders to understand business requirements and align AI solutions with company goals.
+
 **Machine Learning Engineer at Sparaxa Solution Pvt Ltd (_October 2022 to Present_)** | New Delhi, India.
 - Led and developed a cutting-edge drug-matching app that significantly lowers patient drug expenses by recommending cost-effective yet equally effective pharmaceutical alternatives.
 - Developed algorithm to make drug matching Faster, drag down runtime from **33 Hours to 2.5 Hours**.
@@ -29,15 +40,15 @@
 - Interact with team and client on a daily basis for the update and gather requirements
 
 **Machine Learning Engineer at Finacus Solution Pvt Ltd (_December 2021 to October 2022_)** | Mumbai, India.
-- Understanding and applying the requirements of digital products and services.
+- Understand and apply the requirements of digital products and services.
 - Developing Deep Learning (for **Computer Vision**) models for identity card detection and text read from images (**OCR**).
-- Developed **chatbot** for assisting bank customers.
+- Developed **chatbot** to assist bank customers.
 - Developed **KYC** verification application from scratch for seamless contactless KYC verification for bank customers.
 
 **Machine Learning Engineer Intern at iNeuorn Pvt Ltd (_Februrary 2021 to December 2021_)** | Bengaluru, India.
 - Developed chatbot for assisting customers' needs.
 - Use of statistical techniques, machine learning, and data mining to build a scalable and innovative solution.
-- Writing High-Level Documents, Low-Level Documents, and Designing Architecture.
+- Writing High-Level Documents and low-level Documents and Designing Architecture.
 
 
 ## Projects
@@ -45,7 +56,7 @@
 A web application made for teachers and students who are teaching and learning **Image Processing** with the open-cv library. The application is designed to enhance the OpenCV
 learning experience, making it more exploratory and enjoyable. 
 - Check the code and read more about it [here](https://github.com/subha996/opencv_explorer)
-- Try yourself [here](https://opencvexplorer.streamlit.app/)
+- Try it yourself [here](https://opencvexplorer.streamlit.app/)
 - Video demo [here](https://www.youtube.com/watch?utm_source=youtube&v=6Oxofczo3tA&feature=youtu.be)
 - Tech Stack:- Python, open-CV, streamlit, and some custom logic.
 
